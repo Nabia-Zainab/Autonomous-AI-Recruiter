@@ -1,0 +1,8 @@
+streamlit
+langgraph
+langchain-groq
+duckduckgo-search
+pypdf
+langchain-community
+faiss-cpu
+python-dotenv
