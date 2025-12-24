@@ -50,11 +50,6 @@ The system operates as a **State Graph** with three specialized nodes:
 
 ---
 
-## 📸 Screenshots
-*(Upload your screenshot here)*
-
----
-
 ## ⚡ Installation & Setup
 
 1.  **Clone the Repository**
